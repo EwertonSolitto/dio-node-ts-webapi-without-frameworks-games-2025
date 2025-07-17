@@ -1,0 +1,17 @@
+{
+  "name": "dio-games-app-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node--env-file=.env src/server.ts",
+    "start:watch": "node --watch --env-file=.env src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
