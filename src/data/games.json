@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Haste",
+    "studio": "Landfall",
+    "release": "04/01/2025",
+    "categories": ["Frantic", "Action", "Female Protagonist", "Roguelike"],
+    "steamLink": "https://store.steampowered.com/app/1796470/Haste/",
+    "asset": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796470/667c9575b9f29f39bf9ec5e639d1d4e05f24d456/header_alt_assets_0_portuguese.jpg?t=1752241805"
+  },
+  {
+    "name": "Cricket Captain 2025",
+    "studio": "Childish Things Ltd",
+    "release": "06/2025",
+    "categories": ["Sports", "Strategy", "Simulation"],
+    "steamLink": "https://store.steampowered.com/app/3637540/Cricket_Captain_2025/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/3637540/header.jpg"
+  },
+  {
+    "name": "New Year Simulator 2025",
+    "studio": "HappyJack, PureDeli",
+    "release": "02/2025",
+    "categories": ["Casual", "RPG", "Simulation", "Early Access"],
+    "steamLink": "https://store.steampowered.com/app/3197190/New_Year_Simulator_2025/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/3197190/header.jpg"
+  },
+  {
+    "name": "An Eternity Gone By",
+    "studio": "Meta? Studios",
+    "release": "02/2025",
+    "categories": ["Adventure", "Indie", "Puzzle"],
+    "steamLink": "https://store.steampowered.com/news/app/2735110/view/529833630239817850",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/2735110/header.jpg"
+  },
+  {
+    "name": "Mall Simulator 2025",
+    "studio": "Unknown",
+    "release": "08/2025",
+    "categories": ["Simulation", "Management", "Indie"],
+    "steamLink": "https://store.steampowered.com/app/3180150/Mall_Simulator_2025/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/3180150/header.jpg"
+  },
+  {
+    "name": "Business Simulator 2025",
+    "studio": "HOGO Games",
+    "release": "Q3/2025",
+    "categories": ["Simulation", "Strategy", "Casual", "Early Access"],
+    "steamLink": "https://store.steampowered.com/app/3098060/Business_Simulator_2025/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/3098060/header.jpg"
+  },
+  {
+    "name": "La Quimera",
+    "studio": "Reburn",
+    "release": "05/2025",
+    "categories": ["FPS", "Narrative", "Co‑op", "Story"],
+    "steamLink": "https://store.steampowered.com/app/???/La_Quimera/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Assetto Corsa EVO",
+    "studio": "Kunos Simulazioni",
+    "release": "01/2025",
+    "categories": ["Sim Racing", "Sports", "Multiplayer"],
+    "steamLink": "https://store.steampowered.com/app/???/Assetto_Corsa_EVO/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Cubic Odyssey",
+    "studio": "Atypical Games",
+    "release": "05/2025",
+    "categories": ["Sandbox", "Survival", "Voxel"],
+    "steamLink": "https://store.steampowered.com/app/3400000/Cubic_Odyssey",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/3400000/header.jpg"
+  },
+  {
+    "name": "The Rogue Prince of Persia",
+    "studio": "Evil Empire",
+    "release": "08/2025",
+    "categories": ["Roguelike", "Platformer", "Indie"],
+    "steamLink": "https://store.steampowered.com/app/???/The_Rogue_Prince_of_Persia/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Fossilized Wonders",
+    "studio": "Team Shanghai Alice",
+    "release": "08/2025",
+    "categories": ["Bullet Hell", "Touhou", "Action"],
+    "steamLink": "https://store.steampowered.com/app/???/Fossilized_Wonders/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Shadow Labyrinth",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Adventure", "Puzzle", "Horror"],
+    "steamLink": "https://store.steampowered.com/app/???/Shadow_Labyrinth/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "BLACK STIGMA",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Shooter", "Hero Shooter", "Free to Play"],
+    "steamLink": "https://store.steampowered.com/app/???/BLACK_STIGMA/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "ReCharge RC: High Voltage",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Racing", "Simulation", "Early Access"],
+    "steamLink": "https://store.steampowered.com/app/???/ReCharge_RC_High_Voltage/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Digger: Galactic Treasures",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Adventure", "Space Sim", "Hidden Object"],
+    "steamLink": "https://store.steampowered.com/app/???/Digger_Galactic_Treasures/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Lastbane",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Horror", "Zombies", "Psychological"],
+    "steamLink": "https://store.steampowered.com/app/???/Lastbane/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Phantom Squad",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Tactical", "Top‑Down Shooter", "Co‑op"],
+    "steamLink": "https://store.steampowered.com/app/???/Phantom_Squad/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Monument Valley 3",
+    "studio": "ustwo games",
+    "release": "07/2025",
+    "categories": ["Casual", "Puzzle", "Atmospheric"],
+    "steamLink": "https://store.steampowered.com/app/???/Monument_Valley_3/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "BRUTAL JOHN 2",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Boomer Shooter", "Retro", "FPS"],
+    "steamLink": "https://store.steampowered.com/app/???/BRUTAL_JOHN_2/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "UnderMine 2",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Action Roguelike", "Roguelite", "Adventure"],
+    "steamLink": "https://store.steampowered.com/app/???/UnderMine_2/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Gorilla Vs 100 Men",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Beat 'em up", "Physics", "Funny"],
+    "steamLink": "https://store.steampowered.com/app/???/Gorilla_Vs_100_Men/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Animal Shelter 2",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Simulation", "Family Friendly", "Cute"],
+    "steamLink": "https://store.steampowered.com/app/???/Animal_Shelter_2/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "hololive GoroGoro Mountain",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["3D Platformer", "Arcade", "Adventure"],
+    "steamLink": "https://store.steampowered.com/app/???/hololive_GoroGoro_Mountain/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "WUCHANG: Fallen Feathers",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Souls-like", "Action RPG", "Female Protagonist"],
+    "steamLink": "https://store.steampowered.com/app/???/WUCHANG_Fallen_Feathers/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "The Great Villainess: Strategy of Lily",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Tactical RPG", "War", "Auto Battler"],
+    "steamLink": "https://store.steampowered.com/app/???/The_Great_Villainess_Strategy_of_Lily/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  },
+  {
+    "name": "Bogos Binted?",
+    "studio": "Unknown",
+    "release": "07/2025",
+    "categories": ["Simulation", "Casual", "Multiplayer"],
+    "steamLink": "https://store.steampowered.com/app/???/Bogos_Binted/",
+    "asset": "https://cdn.cloudflare.steamstatic.com/steam/apps/???/header.jpg"
+  }
+]
