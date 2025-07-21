@@ -1,6 +1,6 @@
 # 🎮 Games 2025 Web API – Node.js + TypeScript
 
-<img src="https://github.com/EwertonSolitto/node-dio-ts-webapi-without-frameworks-games-2025/blob/main/asset/preview.png" alt="App preview" />
+<img src="https://github.com/EwertonSolitto/dio-node-ts-webapi-without-frameworks-games-2025/blob/main/asset/preview.png" alt="App preview" />
 
 ## 📝 About
 
@@ -51,13 +51,13 @@ GET http://localhost:3333/category?c=RPG
 1. 📁 Clone the repository
 
 ```bash
-git clone https://github.com/EwertonSolitto/node-dio-ts-webapi-without-frameworks-games-2025.git
+git clone https://github.com/EwertonSolitto/dio-node-ts-webapi-without-frameworks-games-2025.git
 ```
 
 2. 📂 Navigate into the project folder
 
 ```bash
-cd node-dio-ts-webapi-without-frameworks-games-2025
+cd dio-node-ts-webapi-without-frameworks-games-2025
 ```
 
 3. 📦 Install the dependencies
